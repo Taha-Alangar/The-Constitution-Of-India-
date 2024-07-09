@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Constitution Of India</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="drawer_open">Drawer Open</string>
+     <string name="preamble_description_english">WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens:
+\n\n
+JUSTICE, social, economic and political;
+LIBERTY of thought, expression, belief, faith and worship;
+EQUALITY of status and of opportunity;and to promote among them allFRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation;
+IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.</string>
+    <string name="preamble_description_hindi">हम, भारत के लोग, भारत को एक संप्रभु समाजवादी धर्मनिरपेक्ष लोकतांत्रिक गणराज्य बनाने और इसके सभी नागरिकों को सुरक्षित करने का गंभीरता से संकल्प लेते हैं:
+
+न्याय, सामाजिक, आर्थिक और राजनीतिक;
+
+विचार, अभिव्यक्ति, विश्वास, विश्वास और पूजा की स्वतंत्रता;
+
+स्थिति और अवसर की समानता;
+
+और उन सभी के बीच प्रचार करना
+
+व्यक्ति की गरिमा और राष्ट्र की एकता और अखंडता को सुनिश्चित करने वाली बंधुता;
+
+नवंबर, 1949 के इस छब्बीसवें दिन हमारी संविधान सभा में, इस संविधान को अपनाएं, अधिनियमित करें और स्वयं को सौंप दें।</string>
+    <string name="consittution_of_india">
+        <b>Constitution<font color="#ee8a21" /> </b>
+        <b>O<font color="#ffffff" /> </b>
+        <b>F<font color="#1A237E" /> </b>
+        <b>India <font color="#388E3C" /> </b>
+          </string>
+
+</resources>

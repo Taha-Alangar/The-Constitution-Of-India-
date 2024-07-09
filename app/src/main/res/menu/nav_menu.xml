@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_icon"
+            android:title="Home"/>
+
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/notification_icon"
+            android:title="Notification"/>
+
+        <item
+            android:id="@+id/nav_notes"
+            android:icon="@drawable/notes_icon"
+            android:title="Notes"/>
+
+        <item
+            android:id="@+id/nav_nightMode"
+            android:icon="@drawable/night_mode_icon"
+            android:title="Night Mode"/>
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/about_icon"
+            android:title="About"/>
+    </group>
+
+
+</menu>
