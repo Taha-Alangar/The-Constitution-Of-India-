@@ -20,7 +20,7 @@ import com.trinitydevelopers.constitutionofindia.databinding.ActivityMainBinding
 import com.trinitydevelopers.constitutionofindia.fragments.HomeFragment
 import com.trinitydevelopers.constitutionofindia.fragments.NotesFragment
 
-class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
+class  MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
     private lateinit var drawerLayout: DrawerLayout
     private lateinit var preferences: SharedPreferences
     private lateinit var navigationView: NavigationView
